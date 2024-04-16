@@ -1,18 +1,11 @@
-import {
-  GradientText,
-  HeroAvatar,
-  HeroSocial,
-  Section,
-} from 'astro-boilerplate-components';
+import { HeroAvatar, HeroSocial, Section } from 'astro-boilerplate-components';
+
+import AvatarKV from '../../public/assets/images/AvatarMaker-removebg-preview.png';
 
 const Hero = () => (
   <Section>
     <HeroAvatar
-      title={
-        <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
-        </>
-      }
+      title={<>Hi there, I'm Kate</>}
       description={
         <>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
@@ -28,8 +21,8 @@ const Hero = () => (
       }
       avatar={
         <img
-          className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          className="h-80 w-80"
+          src={AvatarKV.src}
           alt="Avatar image"
           loading="lazy"
         />
