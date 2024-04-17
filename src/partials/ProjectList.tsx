@@ -10,9 +10,7 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="O'poils"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description="Site de rencontre pour chiens, où les propriétaires de chiens peuvent se rencontrer et organiser des rendez-vous pour leurs compagnons à quatre pattes, pour des parties de jeux ou des promenades inoubliables. "
         link="/"
         img={{
           src: '../public/assets/images/opoils-logo.png',
@@ -20,40 +18,67 @@ const ProjectList = () => (
         }}
         category={
           <>
-            <Tags color={ColorTags.AMBER}>Astro.js</Tags>
-            <Tags color={ColorTags.LIME}>Web design</Tags>
-            <Tags color={ColorTags.SKY}>Tailwind.css</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
+            <Tags color={ColorTags.ORANGE}>HTML</Tags>
+            <Tags color={ColorTags.ROSE}>SCSS</Tags>
+            <Tags color={ColorTags.BLUE}>PHP</Tags>
+            <Tags color={ColorTags.YELLOW}>JAVASCRIPT</Tags>
+            <Tags color={ColorTags.INDIGO}>REACT</Tags>
+            <Tags color={ColorTags.STONE}>SYMFONY</Tags>
+            <Tags color={ColorTags.AMBER}>TWIG</Tags>
           </>
         }
       />
       <Project
-        name="Project 2"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        name="Pixel Perfect"
+        description="Site de vente d'articles multimédias. Envie d'acheter le casque dernier cri pour des parties endiablées en ligne? Ne cherchez pas plus loin."
         link="/"
-        img={{ src: '/assets/images/project-fire.png', alt: 'Project Fire' }}
+        img={{
+          src: '../public/assets/images/pp-logo.png',
+          alt: 'Project Pixel Perfect',
+        }}
         category={
           <>
-            <Tags color={ColorTags.VIOLET}>Next.js</Tags>
-            <Tags color={ColorTags.EMERALD}>Blog</Tags>
-            <Tags color={ColorTags.YELLOW}>JavaScript</Tags>
+            <Tags color={ColorTags.ORANGE}>HTML</Tags>
+            <Tags color={ColorTags.PURPLE}>CSS</Tags>
+            <Tags color={ColorTags.BLUE}>PHP</Tags>
+            <Tags color={ColorTags.YELLOW}>JAVASCRIPT</Tags>
+            <Tags color={ColorTags.INDIGO}>REACT</Tags>
+            <Tags color={ColorTags.STONE}>SYMFONY</Tags>
           </>
         }
       />
       <Project
-        name="Project 3"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        name="React TO-DO LIST"
+        description="Une application pour s'organiser, en version multilingue."
         link="/"
-        img={{ src: '/assets/images/project-maps.png', alt: 'Project Maps' }}
+        img={{
+          src: '../public/assets/images/todo-list-logo.png',
+          alt: 'Project Todo list logo',
+        }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
-            <Tags color={ColorTags.INDIGO}>Bootstrap</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
+            <Tags color={ColorTags.ORANGE}>HTML</Tags>
+            <Tags color={ColorTags.PURPLE}>CSS</Tags>
+            <Tags color={ColorTags.YELLOW}>JAVASCRIPT</Tags>
+            <Tags color={ColorTags.INDIGO}>REACT</Tags>
+          </>
+        }
+      />
+
+      <Project
+        name="Le Petit Labyrinthe"
+        description="Une petite pause via ce jeu pour m'aider à trouver de nouvelles opportunités et redévouvrir mon CV."
+        link="/"
+        img={{
+          src: '../public/assets/images/laby-logo.png',
+          alt: 'Project Todo list logo',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.ORANGE}>HTML</Tags>
+            <Tags color={ColorTags.PURPLE}>CSS</Tags>
+            <Tags color={ColorTags.YELLOW}>JAVASCRIPT</Tags>
+            <Tags color={ColorTags.INDIGO}>REACT</Tags>
           </>
         }
       />
