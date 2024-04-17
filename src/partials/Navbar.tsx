@@ -26,6 +26,9 @@ const Navbar = () => (
         <NavMenuItem href="https://www.linkedin.com/in/kathleen-vierstraete/">
           LinkedIn
         </NavMenuItem>
+        <NavMenuItem href="https://drive.google.com/file/d/1hMRpJEmb-jCRvpV-3NPEsPqo3j6tP-F5/view">
+          CV
+        </NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>

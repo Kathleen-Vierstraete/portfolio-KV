@@ -26,7 +26,7 @@ const Hero = () => (
         />
       }
       socialButtons={
-        <div className="mt-5 grid grid-cols-4 gap-4">
+        <div className="mt-5 grid grid-cols-4 gap-4 md:grid-cols-8">
           <HeroSocial
             src="../public/assets/images/languagesIcons/icons8-html-48.png"
             alt="HTML icon"
