@@ -5,18 +5,16 @@ import AvatarKV from '../../public/assets/images/AvatarMaker-removebg-preview.pn
 const Hero = () => (
   <Section>
     <HeroAvatar
-      title={<>Hi there, I'm Kate</>}
+      title={<>Hello, c'est Kate</>}
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          Je suis développeuse FullStack, avec une certaine appétance pour le
+          BackEnd. N'hésitez pas à découvrir mes projets, développés seule ou en
+          équipe, toujours en 100% remote. Je suis disponible pour de nouvelles
+          aventures pleines de code et de challenges. Contact :{' '}
+          <span className="text-purple-800 hover:underline">
+            ctrlkate89@gmail.com
+          </span>
         </>
       }
       avatar={
@@ -28,32 +26,42 @@ const Hero = () => (
         />
       }
       socialButtons={
-        <>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/twitter-icon.png"
-              alt="Twitter icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/facebook-icon.png"
-              alt="Facebook icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/linkedin-icon.png"
-              alt="Linkedin icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/youtube-icon.png"
-              alt="Youtube icon"
-            />
-          </a>
-        </>
+        <div className="mt-5 grid grid-cols-4 gap-4">
+          <HeroSocial
+            src="../public/assets/images/languagesIcons/icons8-html-48.png"
+            alt="HTML icon"
+          />
+
+          <HeroSocial
+            src="../public/assets/images/languagesIcons/icons8-css3-48.png"
+            alt="CSS icon"
+          />
+
+          <HeroSocial
+            src="../public/assets/images/languagesIcons/icons8-php-48.png"
+            alt="PHP icon"
+          />
+
+          <HeroSocial
+            src="../public/assets/images/languagesIcons/icons8-javascript-48.png"
+            alt="JavaScript icon"
+          />
+
+          <HeroSocial
+            src="../public/assets/images/languagesIcons/icons8-symfony-48.png"
+            alt="Symfony icon"
+          />
+
+          <HeroSocial
+            src="../public/assets/images/languagesIcons/icons8-react-48.png"
+            alt="React icon"
+          />
+
+          <HeroSocial
+            src="../public/assets/images/languagesIcons/icons8-mysql-48.png"
+            alt="MySQL icon"
+          />
+        </div>
       }
     />
   </Section>
