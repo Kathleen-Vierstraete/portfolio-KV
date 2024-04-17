@@ -64,6 +64,46 @@ const Hero = () => (
         </div>
       }
     />
+    <HeroAvatar
+      title={<></>}
+      description={<>Je parle aussi plusieurs langues</>}
+      avatar={<></>}
+      socialButtons={
+        <div className="grid grid-cols-4 gap-4 md:grid-cols-8">
+          <div className="flex flex-col items-center">
+            <HeroSocial
+              src="../public/assets/images/languagesIcons/icons8-france-48.png"
+              alt="HTML icon"
+            />
+            <p>C2</p>
+          </div>
+
+          <div className="flex flex-col items-center">
+            <HeroSocial
+              src="../public/assets/images/languagesIcons/icons8-uk-48.png"
+              alt="CSS icon"
+            />
+            <p>C1</p>
+          </div>
+
+          <div className="flex flex-col items-center">
+            <HeroSocial
+              src="../public/assets/images/languagesIcons/icons8-spain-flag-48.png"
+              alt="PHP icon"
+            />
+            <p>B1</p>
+          </div>
+
+          <div className="flex flex-col items-center">
+            <HeroSocial
+              src="../public/assets/images/languagesIcons/icons8-china-48.png"
+              alt="JavaScript icon"
+            />
+            <p>A2</p>
+          </div>
+        </div>
+      }
+    />
   </Section>
 );
 

@@ -11,7 +11,7 @@ const Navbar = () => (
       <a href="/">
         <div className="flex items-center">
           <img
-            src="./public/icons8-home-32.png"
+            src="../public/icons8-home-32.png"
             alt="home icon"
             className="mr-4"
           />
