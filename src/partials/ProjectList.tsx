@@ -11,7 +11,7 @@ const ProjectList = () => (
       <Project
         name="O'poils"
         description="Site de rencontre pour chiens, où les propriétaires de chiens peuvent se rencontrer et organiser des rendez-vous pour leurs compagnons à quatre pattes, pour des parties de jeux ou des promenades inoubliables. "
-        link="/"
+        link="/opoils/"
         img={{
           src: '../public/assets/images/opoils-logo.png',
           alt: 'Project Opoils Logo',
@@ -28,6 +28,7 @@ const ProjectList = () => (
           </>
         }
       />
+
       <Project
         name="Pixel Perfect"
         description="Site de vente d'articles multimédias. Envie d'acheter le casque dernier cri pour des parties endiablées en ligne? Ne cherchez pas plus loin."
@@ -78,7 +79,6 @@ const ProjectList = () => (
             <Tags color={ColorTags.ORANGE}>HTML</Tags>
             <Tags color={ColorTags.PURPLE}>CSS</Tags>
             <Tags color={ColorTags.YELLOW}>JAVASCRIPT</Tags>
-            <Tags color={ColorTags.INDIGO}>REACT</Tags>
           </>
         }
       />
