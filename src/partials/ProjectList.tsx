@@ -32,7 +32,7 @@ const ProjectList = () => (
       <Project
         name="Pixel Perfect"
         description="Site de vente d'articles multimédias. Envie d'acheter le casque dernier cri pour des parties endiablées en ligne? Ne cherchez pas plus loin."
-        link="/"
+        link="/pixelperfect/"
         img={{
           src: '../public/assets/images/pp-logo.png',
           alt: 'Project Pixel Perfect',
