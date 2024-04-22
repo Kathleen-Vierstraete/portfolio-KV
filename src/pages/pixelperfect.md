@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: Pixel Perfect
 description: Site de vente d'articles multimédias.
 pubDate: 2024-04-18T00:00:00Z
-imgSrc: '../public/assets/images/pp-logo.png'
+imgSrc: '../public/assets/images/pp-logo2.png'
 imgAlt: 'Logo Pixel Perfect'
 ---
 
