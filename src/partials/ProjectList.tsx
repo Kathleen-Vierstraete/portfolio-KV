@@ -69,7 +69,7 @@ const ProjectList = () => (
       <Project
         name="Le Petit Labyrinthe"
         description="Une petite pause via ce jeu pour m'aider à trouver de nouvelles opportunités et redévouvrir mon CV."
-        link="/"
+        link="/tinygame/"
         img={{
           src: '../public/assets/images/laby-logo.png',
           alt: 'Project Todo list logo',

@@ -7,14 +7,11 @@ imgSrc: '../public/assets/images/todo-list-logo.png'
 imgAlt: 'Logo Opoils'
 ---
 
-Cette Todo List a été développée seule, en suivant un tutoriel en ligne. Le but était d'approfondir mes connaissances sur la librairie React, tout en ayant la possibilité de déployer l'application, afin que ceux qui en ressentent le besoin puissent l'utiliser. React-Redux, couplés au HTML/CSS ont été utilisé pour se faire. 
+Une petite pause via ce jeu pour m'aider à trouver de nouvelles opportunités et redévouvrir mon CV.
 
 #### GitHub Repository
 
 Le repository est disponible ici :  [ToDo List Github](https://github.com/Kathleen-Vierstraete/react-todolist "React Todo List GitHub")
-
-
-
 
 #### Fonctionnalités de l'application 
 
