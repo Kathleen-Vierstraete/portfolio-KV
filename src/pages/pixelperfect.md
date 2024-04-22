@@ -7,7 +7,14 @@ imgSrc: '../public/assets/images/pp-logo.png'
 imgAlt: 'Logo Pixel Perfect'
 ---
 
-Pixel perfect est un site demo de vente d'articles multimédias en ligne. Il a été conçu avec une équipe composée de 5 développeurs, 2 testeuses. La personne en charge du design avait commencé à nous faire des maquettes, mais a du quitter l'aventure peu de temps après le début des intégrations. L'application a été développée via React-Redux, ainsi que Tailwind, pour la partie FrontEnd et via Symfony pour le BackEnd, notamment pour les APIs. Elle n'a pas été déployée, l'objectif étant de pratiquer, de monter en compétences et d'intégrer des fonctionnalités telle Stripe. 
+Pixel perfect est un site demo de vente d'articles multimédias en ligne. Il a été conçu avec une équipe composée de 5 développeurs, 2 testeuses. La personne en charge du design avait commencé à nous faire des maquettes, mais a dû quitter l'aventure peu de temps après le début des intégrations. L'application a été développée via React-Redux, ainsi que Tailwind, pour la partie FrontEnd et via Symfony pour le BackEnd, notamment pour les APIs. Elle n'a pas été déployée, l'objectif étant de pratiquer, de monter en compétences et d'intégrer des fonctionnalités telle Stripe. 
+
+#### GitHub Repositories
+
+Le repository pour la partie FrontEnd est disponible ici :  [Pixel Perfect Front Github](https://github.com/Kathleen-Vierstraete/pixel-perfect-team-frontend "Pixel Perfect GitHub Front")
+
+Le repository pour la partie BackEnd est disponible ici :  [Pixel PerfectBack Github](https://github.com/Kathleen-Vierstraete/pixel-perfect-team-backend "Pixel Perfect GitHub Back")
+
 
 #### Page d'accueil
 

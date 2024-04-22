@@ -9,6 +9,12 @@ imgAlt: 'Logo Opoils'
 
 Site de rencontre pour chiens, où les propriétaires de chiens peuvent se rencontrer et organiser des rendez-vous pour leurs compagnons à quatre pattes, pour des parties de jeux ou des promenades inoubliables.
 
+#### GitHub Repositories
+
+Le repository pour la partie FrontEnd est disponible ici :  [O'poils Front Github](https://github.com/Kathleen-Vierstraete/opoils-front "O'poils GitHub Front")
+
+Le repository pour la partie BackEnd est disponible ici :  [O'poils Back Github](https://github.com/Kathleen-Vierstraete/opoils-back "O'poils GitHub Back")
+
 #### Page d'accueil
 
 Le site O'poils a été développé sur la partie FrontEnd avec React-Redux, combiné a du HTML/SCSS, et avec Symfony pour la partie BackEnd et les liaisons avec l'API. L'application a été développée en équipe, composée par 3 personnes, l'une chargée de la partie FrontEnd et les 2 autres chargées de la partie BackEnd, avec une communication quotidienne basée sur l'agilité. Le projet a été conçu en 100% distanciel. 
