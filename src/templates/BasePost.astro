@@ -5,6 +5,7 @@ import { BlogPost } from '@/partials/BlogPost';
 import { CTA } from '@/partials/CTA';
 import Base from '@/templates/Base.astro';
 import { AppConfig } from '@/utils/AppConfig';
+import { ProjectsFooter } from '@/partials/ProjectsFooter';
 
 export interface Props {
   content: IFrontmatter;
@@ -19,5 +20,5 @@ const title = `${content.title} - ${AppConfig.site_name}`;
     <slot></slot>
   </BlogPost>
 
-
+<ProjectsFooter> </ProjectsFooter>
 </Base>
