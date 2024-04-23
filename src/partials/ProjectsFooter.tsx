@@ -2,7 +2,7 @@ import { Section } from 'astro-boilerplate-components';
 
 const ProjectsFooter = () => (
   <Section>
-    <a href="/">
+    <a href="/portfolio-KV/">
       <div className="flex items-center">
         <img
           src="../public/icons8-home-32.png"
