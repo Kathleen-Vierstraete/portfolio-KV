@@ -11,7 +11,7 @@ const ProjectList = () => (
       <Project
         name="O'poils"
         description="Site de rencontre pour chiens, où les propriétaires de chiens peuvent se rencontrer et organiser des rendez-vous pour leurs compagnons à quatre pattes, pour des parties de jeux ou des promenades inoubliables. "
-        link="portfolio-KV/opoils/"
+        link="opoils/"
         img={{
           src: '../public/assets/images/opoils-logo.png',
           alt: 'Project Opoils Logo',
@@ -32,7 +32,7 @@ const ProjectList = () => (
       <Project
         name="Pixel Perfect"
         description="Site de vente d'articles multimédias. Envie d'acheter le casque dernier cri pour des parties endiablées en ligne? Ne cherchez pas plus loin."
-        link="portfolio-KV/pixelperfect/"
+        link="pixelperfect/"
         img={{
           src: '../public/assets/images/pp-logo2.png',
           alt: 'Project Pixel Perfect',
@@ -51,7 +51,7 @@ const ProjectList = () => (
       <Project
         name="React TO-DO LIST"
         description="Une application pour s'organiser, en version multilingue."
-        link="portfolio-KV/react-todo-list/"
+        link="react-todo-list/"
         img={{
           src: '../public/assets/images/todo-list-logo2.png',
           alt: 'Project Todo list logo',
@@ -69,7 +69,7 @@ const ProjectList = () => (
       <Project
         name="Le Petit Labyrinthe"
         description="Une petite pause via ce jeu pour m'aider à trouver de nouvelles opportunités et redévouvrir mon CV."
-        link="portfolio-KV/tinygame/"
+        link="tinygame/"
         img={{
           src: '../public/assets/images/laby-logo2.png',
           alt: 'Project Todo list logo',
