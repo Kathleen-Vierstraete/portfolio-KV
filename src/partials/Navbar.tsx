@@ -8,7 +8,7 @@ import {
 const Navbar = () => (
   <Section>
     <NavbarTwoColumns>
-      <a href="/portfolio-KV/">
+      <a href="/">
         <div className="flex items-center">
           <img
             src="../public/icons8-home-32.png"
