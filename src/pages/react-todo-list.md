@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: React Todo List
 description: S"Une application pour s'organiser, en version multilingue."
 pubDate: 2024-04-18T00:00:00Z
-imgSrc: '../public/assets/images/todo-list-logo2.png'
+imgSrc: '/assets/images/todo-list-logo2.png'
 imgAlt: 'Logo Opoils'
 ---
 
