@@ -1,6 +1,7 @@
 import { HeroAvatar, HeroSocial, Section } from 'astro-boilerplate-components';
 
 import AvatarKV from '../../public/assets/images/AvatarMaker-removebg-preview.png';
+import HTMLLogo from '../../public/assets/images/languagesIcons/icons8-html-48.png';
 
 const Hero = () => (
   <Section>
@@ -27,10 +28,7 @@ const Hero = () => (
       }
       socialButtons={
         <div className="mt-5 grid grid-cols-4 gap-4 md:grid-cols-8">
-          <HeroSocial
-            src="../public/assets/images/languagesIcons/icons8-html-48.png"
-            alt="HTML icon"
-          />
+          <HeroSocial src={HTMLLogo.src} alt="HTML icon" />
 
           <HeroSocial
             src="../public/assets/images/languagesIcons/icons8-css3-48.png"
