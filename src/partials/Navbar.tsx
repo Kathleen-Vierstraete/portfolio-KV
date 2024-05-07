@@ -16,13 +16,22 @@ const Navbar = () => (
       </a>
 
       <NavMenu>
-        <NavMenuItem href="https://github.com/Kathleen-Vierstraete">
+        <NavMenuItem
+          href="https://github.com/Kathleen-Vierstraete"
+          target="_blank"
+        >
           GitHub
         </NavMenuItem>
-        <NavMenuItem href="https://www.linkedin.com/in/kathleen-vierstraete/">
+        <NavMenuItem
+          href="https://www.linkedin.com/in/kathleen-vierstraete/"
+          target="_blank"
+        >
           LinkedIn
         </NavMenuItem>
-        <NavMenuItem href="https://drive.google.com/file/d/1hMRpJEmb-jCRvpV-3NPEsPqo3j6tP-F5/view">
+        <NavMenuItem
+          href="https://drive.google.com/file/d/1hMRpJEmb-jCRvpV-3NPEsPqo3j6tP-F5/view"
+          target="_blank"
+        >
           CV
         </NavMenuItem>
       </NavMenu>
