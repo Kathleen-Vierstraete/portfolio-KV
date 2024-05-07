@@ -1,0 +1,17 @@
+---
+import type { IFrontmatter } from 'astro-boilerplate-components';
+
+import { Page404} from '@/partials/Page404';
+import Base from '@/templates/Base.astro';
+import { AppConfig } from '@/utils/AppConfig';
+
+import '../../public/css/page404.css';
+
+
+const { title } = AppConfig;
+const { description } = AppConfig;
+---
+
+<Base head={{ title, description }}>
+<Page404 />
+</Base>
