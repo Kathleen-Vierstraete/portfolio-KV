@@ -24,7 +24,7 @@ const Hero = () => (
           équipe, toujours en 100% remote. Je suis disponible pour de nouvelles
           aventures pleines de code et de challenges. Contact :{' '}
           <span className="text-purple-800 hover:underline">
-            ctrlkate89@gmail.com
+            <a href="mailto:ctrlkate89@gmail.com">ctrlkate89@gmail.com</a>
           </span>
         </>
       }
