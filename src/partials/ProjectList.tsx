@@ -82,6 +82,24 @@ const ProjectList = () => (
           </>
         }
       />
+
+      <Project
+        name="Koney Island"
+        description="Un thème créé via Wordpress, avec toutes les fonctionnalités nécessaires en backoffice"
+        link="koney/"
+        img={{
+          src: '/assets/images/koney-logo.png',
+          alt: 'Koney Wordpress logo',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.ORANGE}>HTML</Tags>
+            <Tags color={ColorTags.PURPLE}>CSS</Tags>
+            <Tags color={ColorTags.BLUE}>PHP</Tags>
+            <Tags color={ColorTags.YELLOW}>JAVASCRIPT</Tags>
+                </>
+              }
+            />
     </div>
   </Section>
 );
