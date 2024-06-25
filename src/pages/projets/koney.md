@@ -17,9 +17,9 @@ Le repository est disponible ici:  [Koney Island Repository](https://github.com/
 
 L'application a été développée avec une idée de mise à disposition d'articles sur le lieu fictif de Koney Island. La page d'accueil se présente de la sorte :
 
-![Koney Homepage](../../public/assets/images/koneywp/koney-home-1.png 'Koney Island Wordpress Homepage')
+![Koney Homepage](../../../public/assets/images/koneywp/koney-home-1.png 'Koney Island Wordpress Homepage')
 
-![Koney Homepage](../../public/assets/images/koneywp/koney-home-2.png 'Koney Island Wordpress Homepage')
+![Koney Homepage](../../../public/assets/images/koneywp/koney-home-2.png 'Koney Island Wordpress Homepage')
 
 Les menus du header et du footer ont été développés grâce à la fonctionnalité menu de Wordpress, où des pages statiques types ont été crées. Un slider a été intégré via Javascript pour ajouter un peu plus de dynamisme dans le thème. 
 
@@ -27,24 +27,24 @@ Les menus du header et du footer ont été développés grâce à la fonctionnal
 
 Les liens ont été paramétrés via Wordpress et depuis la page d'accueil, l'utilisateur peut accéder à l'article qui l'intéresse. 
 
-![Koney Post](../../public/assets/images/koneywp/koney-post.png 'Koney Island Wordpress Post')
+![Koney Post](../../../public/assets/images/koneywp/koney-post.png 'Koney Island Wordpress Post')
 
 #### Page statique
 
 Grâce aux menus Wordpress, les liens des pages statiques (type contactez-nous par exemple) ont été mis en place. Depuis le backoffice de Wordpress, il a été possible de personaliser ces pages, tout en y intégrant le CSS voulu pour ce thème personalisé. 
 
-![Koney Page](../../public/assets/images/koneywp/koney-page.png 'Koney Island Wordpress Page')
+![Koney Page](../../../public/assets/images/koneywp/koney-page.png 'Koney Island Wordpress Page')
 
 #### Le backoffice
 
 Via le backoffice Wordpress, il est possible de créer des articles, des pages statiques, ou encore de personaliser les menus, selon les besoins. 
 
-![Koney Backoffice 1](../../public/assets/images/koneywp/koney-backoffice-1.png 'Koney Island Wordpress Backoffice 1')
+![Koney Backoffice 1](../../../public/assets/images/koneywp/koney-backoffice-1.png 'Koney Island Wordpress Backoffice 1')
 
-![Koney Backoffice 2](../../public/assets/images/koneywp/koney-backoffice-3.png 'Koney Island Wordpress Backoffice 2')
+![Koney Backoffice 2](../../../public/assets/images/koneywp/koney-backoffice-3.png 'Koney Island Wordpress Backoffice 2')
 
 
-![Koney Backoffice 3](../../public/assets/images/koneywp/koney-backoffice-2.png 'Koney Island Wordpress Backoffice 3')
+![Koney Backoffice 3](../../../public/assets/images/koneywp/koney-backoffice-2.png 'Koney Island Wordpress Backoffice 3')
 
 #### Le fichier functions.php
 
