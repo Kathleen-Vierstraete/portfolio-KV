@@ -20,7 +20,7 @@ const HeroEnglish = () => (
       description={
         <>
           I am a Fullstack developer, with a preference for the BackEnd. Feel
-          free to discover my projects, developped remotely on my own or with
+          free to discover my projects, developed remotely on my own or with
           teammates. I am available for new adventures full of code and
           challenges. Contact :{' '}
           <span className="text-purple-800 hover:underline">

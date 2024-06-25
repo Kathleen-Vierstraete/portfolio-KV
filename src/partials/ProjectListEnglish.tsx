@@ -5,13 +5,13 @@ import {
   Tags,
 } from 'astro-boilerplate-components';
 
-const ProjectList = () => (
-  <Section title={<>Mes Projets</>}>
+const ProjectListEnglish = () => (
+  <Section title={<>My Projects</>}>
     <div className="flex flex-col gap-6">
       <Project
         name="O'poils"
-        description="Site de rencontre pour chiens, où les propriétaires de chiens peuvent se rencontrer et organiser des rendez-vous pour leurs compagnons à quatre pattes, pour des parties de jeux ou des promenades inoubliables. "
-        link="projets/opoils/"
+        description="Dating website for dogs, where dogs owners can meet and organize dates for their pets, to have amazing plays or unforgettable walks"
+        link="projects/opoils/"
         img={{
           src: '/assets/images/opoils-logo.png',
           alt: 'Project Opoils Logo',
@@ -104,4 +104,4 @@ const ProjectList = () => (
   </Section>
 );
 
-export { ProjectList };
+export { ProjectListEnglish };
