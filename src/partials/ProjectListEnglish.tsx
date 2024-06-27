@@ -51,7 +51,7 @@ const ProjectListEnglish = () => (
       <Project
         name="React TO-DO LIST"
         description="Une application pour s'organiser, en version multilingue."
-        link="react-todo-list/"
+        link="projects/react-todo-list/"
         img={{
           src: '/assets/images/todo-list-logo2.png',
           alt: 'Project Todo list logo',

@@ -1,13 +1,13 @@
 ---
 layout: '@/templates/BasePost.astro'
 title: React Todo List
-description: S"Une application pour s'organiser, en version multilingue."
+description: "Une application pour s'organiser, en version multilingue."
 pubDate: 2024-04-18T00:00:00Z
 imgSrc: '/assets/images/todo-list-logo2.png'
 imgAlt: 'Logo Opoils'
 ---
 
-Une petite pause via ce jeu pour m'aider à trouver de nouvelles opportunités et redévouvrir mon CV.
+Une application pour s'organiser, en version multilingue.
 
 #### GitHub Repository
 

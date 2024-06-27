@@ -1,7 +1,7 @@
 ---
 layout: '@/templates/BasePost.astro'
 title: Pixel Perfect
-description: Site de vente d'articles multimédias.
+description: E-shop demo site
 pubDate: 2024-04-18T00:00:00Z
 imgSrc: '/assets/images/pp-logo2.png'
 imgAlt: 'Logo Pixel Perfect'
@@ -10,7 +10,7 @@ Pixel Perfect is a e-shop demo site. It was build in a team of 5 developers and 
 
 #### GitHub Repositories
 
-The repository for the FrontEnd part is available here ::  [Pixel Perfect Front Github](https://github.com/Kathleen-Vierstraete/pixel-perfect-team-frontend "Pixel Perfect GitHub Front")
+The repository for the FrontEnd part is available here :  [Pixel Perfect Front Github](https://github.com/Kathleen-Vierstraete/pixel-perfect-team-frontend "Pixel Perfect GitHub Front")
 
 The repository for the BackEnd part is available here :  [Pixel PerfectBack Github](https://github.com/Kathleen-Vierstraete/pixel-perfect-team-backend "Pixel Perfect GitHub Back")
 
