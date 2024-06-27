@@ -1,5 +1,5 @@
 ---
-layout: '@/templates/BasePost.astro'
+layout: '@/templates/BasePostEnglish.astro'
 title: Koney Island Wordpress
 description: A personalized Wordpress theme, with the possibility to post articles
 pubDate: 2024-04-18T00:00:00Z

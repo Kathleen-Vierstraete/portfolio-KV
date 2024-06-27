@@ -1,5 +1,5 @@
 ---
-layout: '@/templates/BasePost.astro'
+layout: '@/templates/BasePostEnglish.astro'
 title: Pixel Perfect
 description: E-shop demo site
 pubDate: 2024-04-18T00:00:00Z

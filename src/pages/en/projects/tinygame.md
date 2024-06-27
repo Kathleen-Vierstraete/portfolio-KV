@@ -1,5 +1,5 @@
 ---
-layout: '@/templates/BasePost.astro'
+layout: '@/templates/BasePostEnglish.astro'
 title: Tiny Game
 description: "A small pause with this game to help me find new opportunities and rediscover my CV."
 pubDate: 2024-04-18T00:00:00Z

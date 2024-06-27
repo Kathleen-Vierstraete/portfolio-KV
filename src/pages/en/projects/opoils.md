@@ -1,5 +1,5 @@
 ---
-layout: '@/templates/BasePost.astro'
+layout: '@/templates/BasePostEnglish.astro'
 title: Opoils
 description: Dating website for dogs, where dogs owners can meet and organize dates for their pets, to have amazing plays or unforgettable walks
 pubDate: 2024-04-18T00:00:00Z

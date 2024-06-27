@@ -1,5 +1,5 @@
 ---
-layout: '@/templates/BasePost.astro'
+layout: '@/templates/BasePostEnglish.astro'
 title: React Todo List
 description: "A To-do List build via React to get organized easily, with 3 languages available"
 pubDate: 2024-04-18T00:00:00Z
