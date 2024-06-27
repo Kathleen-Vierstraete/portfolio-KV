@@ -5,10 +5,10 @@ import {
   Section,
 } from 'astro-boilerplate-components';
 
-const Navbar = () => (
+const NavbarEnglish = () => (
   <Section>
     <NavbarTwoColumns>
-      <a href="/">
+      <a href="/en/">
         <div className="flex items-center">
           <img src="/icons8-home-32.png" alt="home icon" className="mr-4" />
           <p className="font-semibold text-purple-800">Kate's portfolio</p>
@@ -35,9 +35,9 @@ const Navbar = () => (
           CV
         </NavMenuItem>
 
-        <a href="/en/">
+        <a href="/">
           <div className="ml-10 flex items-center">
-            <p className="font-semibold text-blue-600">English version</p>
+            <p className="font-semibold text-blue-600">Version française</p>
           </div>
         </a>
       </NavMenu>
@@ -45,4 +45,4 @@ const Navbar = () => (
   </Section>
 );
 
-export { Navbar };
+export { NavbarEnglish };
