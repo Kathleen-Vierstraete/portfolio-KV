@@ -13,7 +13,7 @@ A To-do List build via React to get organized easily, with 3 languages available
 
 The repository is available here:  [ToDo List Github](https://github.com/Kathleen-Vierstraete/react-todolist "React Todo List GitHub")
 
-#### Fonctionnalités de l'application 
+#### Application features
 
 The user can see the full list :
 
@@ -45,7 +45,7 @@ It is possible to select a language to make the navigation easier :
 
 This feature was set up via i18next, Javascript framework. 
 
-#### Déploiement 
+#### Deployment
 
 To make sure the application could be used by most, it was deployed via github:
 

@@ -69,7 +69,7 @@ const ProjectListEnglish = () => (
       <Project
         name="Le Petit Labyrinthe"
         description="Une petite pause via ce jeu pour m'aider à trouver de nouvelles opportunités et redévouvrir mon CV."
-        link="tinygame/"
+        link="projects/tinygame/"
         img={{
           src: '/assets/images/laby-logo2.png',
           alt: 'Project Todo list logo',
@@ -86,7 +86,7 @@ const ProjectListEnglish = () => (
       <Project
         name="Koney Island"
         description="Un thème créé via Wordpress, avec toutes les fonctionnalités nécessaires en backoffice"
-        link="koney/"
+        link="projects/koney/"
         img={{
           src: '/assets/images/koney-logo.png',
           alt: 'Koney Wordpress logo',
